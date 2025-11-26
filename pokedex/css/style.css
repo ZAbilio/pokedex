@@ -21,8 +21,8 @@ main {
 }
 
 .pokedex {
-  width: 100%;
-  max-width: 425px;
+  width: 525px;
+  max-width: 400px;
 }
 
 .pokemon__image {
